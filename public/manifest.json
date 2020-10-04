@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Date calculator",
+  "name": "Period end date calculator",
   "icons": [
     {
       "src": "favicon.ico",
